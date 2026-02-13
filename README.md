@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project presents a structured quantitative analysis of **Gold and Silver price behaviour** using historical time-series data.
+
 
 It combines:
 
@@ -54,7 +54,7 @@ The analysis is aligned with the article *“Noble Metals in Action”* and focu
 * Computed **daily returns**
 * Calculated **rolling volatility (252-day window)** to represent annualised risk
 * Compared volatility behaviour between Gold and Silver
-* Identified high-volatility regimes and linked them to macro events (e.g., pandemic, liquidity stress, policy uncertainty)
+
 
 **Deliverables:**
 
