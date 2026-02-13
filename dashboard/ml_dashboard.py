@@ -167,7 +167,7 @@ st.sidebar.info(
 )
 
 # ─── Header ──────────────────────────────────────────────────────────────────
-st.title("📈 Gold Price 3-Month Forward ML Forecast")
+st.title(" Gold Price 3-Month Forward ML Forecast")
 st.markdown(
     f"**Test Period:** {min_date} → {max_date}  ·  "
     f"**Forecast Horizon:** 63 trading days (~3 months)  ·  "
